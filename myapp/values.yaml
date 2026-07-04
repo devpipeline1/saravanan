@@ -1,0 +1,11 @@
+# Default values for myapp.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+env: stg
+appname: nginx-dep
+app: myapp
+image:
+  repository: devpipeline/ravi
+  tag: v1
+replicas: 5
