@@ -7,5 +7,5 @@ appname: nginx-dep
 app: myapp
 image:
   repository: devpipeline/ravi
-  tag: "28707456883"
+  tag: "28730529020"
 replicas: 5
