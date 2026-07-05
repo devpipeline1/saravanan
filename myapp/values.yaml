@@ -7,5 +7,5 @@ appname: nginx-dep
 app: myapp
 image:
   repository: devpipeline/saravana
-  tag: "28730529020"
+  tag: "28731328744"
 replicas: 5
